@@ -1,7 +1,7 @@
 Swift-OAuth-Vkontakte-NoSDK-Example
 ==========
 
-Software for working with VK API, authorizing through VK app and using VK API methods.
+Software demonstrates how to work with OAuth Apps, on the example of working with VK API: authorizing through VK app and using VK API methods.
 Supported iOS from 11.2.
 
 ----------
