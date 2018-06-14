@@ -6,6 +6,8 @@
 //  Copyright © 2018 Антон Григорьев. All rights reserved.
 //
 
+//HELLO PEOPLE :)
+
 import UIKit
 
 class EnterViewController: UIViewController {
