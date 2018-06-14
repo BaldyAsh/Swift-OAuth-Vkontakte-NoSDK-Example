@@ -67,8 +67,8 @@ class LoginViewController: UIViewController {
         
         //creating webView
         self.vkWebView.scalesPageToFit = true
-        self.vkWebView.tag = 1024;
-        self.vkWebView.delegate = self;
+        self.vkWebView.tag = 1024 //tag for web view
+        self.vkWebView.delegate = self
         self.view.addSubview(vkWebView)
         self.vkWebView.becomeFirstResponder()
         self.vkWebView.translatesAutoresizingMaskIntoConstraints = false
