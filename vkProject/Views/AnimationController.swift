@@ -10,7 +10,6 @@ import UIKit
 
 class AnimationController: UIView {
     
-    
     private enum AnimationViewTag: Int {
         case background = 1
         case notification = 2
